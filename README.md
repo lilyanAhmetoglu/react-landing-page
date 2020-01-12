@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is not responsive, you can only run it on desktop screen.
 
 ## Available Scripts
 
