@@ -1,4 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Purpos of this project 
+> How to create a project with React CLI
+
+> Creation of components
+
+> Using third party libraries
+
+> Creating transitions on reveal and carrousel.
+
+> Using parts of Material UI to make our app better.
+
+> Deployment of a static webpages to Netlify.
 
 ## Available Scripts
 
