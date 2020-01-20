@@ -12,6 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 > Deployment of a static webpages to Netlify.
 
+## Notes
+This project is not responsive, you can only run it on desktop screen.
+
 ## Available Scripts
 
 In the project directory, you can run:
